@@ -1,4 +1,4 @@
-##Disable Signatures Per Post
+Disable Signatures Per Post
 -----------------------------
 
 Allows staff and members to disable signatures per post.
